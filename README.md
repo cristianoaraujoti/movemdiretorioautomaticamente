@@ -1,0 +1,2 @@
+# movemdiretorioautomaticamente
+Move Diretório Automaticamente
